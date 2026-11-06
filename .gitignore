@@ -3,8 +3,6 @@
 
 # Dataset and training outputs (large files, not pushed to GitHub)
 data/
-runs/
-*.pt
 *.onnx
 
 # Python cache
